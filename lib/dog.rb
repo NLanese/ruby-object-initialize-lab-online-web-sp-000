@@ -3,5 +3,6 @@ class Dog
     @name = nameInput
     if (breedInput == nil)
       @breed = "Mutt"
+    end
   end
 end
