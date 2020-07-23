@@ -3,8 +3,4 @@ class Dog
     @name = nameInput
     @breed = breedInput
   end
-  def initialize(nameInput)
-    @name = nameInput
-    @breed = "Mutt"
-  end
 end
